@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Roy Halladay",
+    "yearJoinedLeague": 2019,
+    "playerType": "Pitcher",
+    "position": "Starting Pitcher",
+    "gamesStarted": 25,
+    "wins": 15,
+    "losses": 7,
+    "saves": 2,
+    "ERA": 3.1,
+    "walks": 45,
+    "strikeouts": 190,
+    "seasonHighlights": [
+      "Pitched a complete game shutout against the Yankees",
+      "Struck out 13 batters in a game against the Orioles"
+    ],
+    "teamContributions": [
+      "Anchor of the starting rotation",
+      "Leader in innings pitched"
+    ]
+  },
+  {
+    "name": "Dave Stieb",
+    "yearJoinedLeague": 2020,
+    "playerType": "Pitcher",
+    "position": "Relief Pitcher",
+    "gamesStarted": 5,
+    "wins": 3,
+    "losses": 2,
+    "saves": 18,
+    "ERA": 2.95,
+    "walks": 30,
+    "strikeouts": 75,
+    "seasonHighlights": [
+      "Secured a save in a crucial game against the Red Sox",
+      "Maintained a 0.00 ERA over 10 consecutive appearances"
+    ],
+    "teamContributions": [
+      "Key figure in the bullpen",
+      "High-pressure situation specialist"
+    ]
+  },
+  {
+    "name": "Carlos Delgado",
+    "yearJoinedLeague": 2021,
+    "playerType": "Position Player",
+    "position": "First Baseman",
+    "hits": 145,
+    "walks": 70,
+    "strikeouts": 85,
+    "battingAverage": 0.325,
+    "stolenBases": 1,
+    "seasonHighlights": [
+      "Hit two grand slams in the month of July",
+      "Maintained a .300+ batting average for three consecutive months"
+    ],
+    "teamContributions": [
+      "Consistent power hitter",
+      "Reliable run producer in the middle of the lineup"
+    ]
+  },
+  {
+    "name": "Tony Fernandez",
+    "yearJoinedLeague": 2022,
+    "playerType": "Position Player",
+    "position": "Shortstop",
+    "hits": 155,
+    "walks": 45,
+    "strikeouts": 80,
+    "battingAverage": 0.29,
+    "stolenBases": 10,
+    "seasonHighlights": [
+      "Recorded a 20-game hitting streak",
+      "Made several spectacular defensive plays"
+    ],
+    "teamContributions": [
+      "Solid defense up the middle",
+      "Consistent contact hitter"
+    ]
+  },
+  {
+    "name": "Joe Carter",
+    "yearJoinedLeague": 2022,
+    "playerType": "Position Player",
+    "position": "Outfielder",
+    "hits": 130,
+    "walks": 55,
+    "strikeouts": 95,
+    "battingAverage": 0.275,
+    "stolenBases": 15,
+    "seasonHighlights": [
+      "Made a game-saving catch against the Angels",
+      "Led the team in stolen bases"
+    ],
+    "teamContributions": [
+      "Versatile defender in the outfield",
+      "Speed threat on the bases"
+    ]
+  },
+  {
+    "name": "Roberto Alomar",
+    "yearJoinedLeague": 2021,
+    "playerType": "Position Player",
+    "position": "Second Baseman",
+    "hits": 160,
+    "walks": 60,
+    "strikeouts": 70,
+    "battingAverage": 0.305,
+    "stolenBases": 22,
+    "seasonHighlights": [
+      "Hit safely in 20 consecutive games",
+      "Turned 40 double plays"
+    ],
+    "teamContributions": ["Gold Glove defense", "Key hitter in the lineup"]
+  },
+  {
+    "name": "George Bell",
+    "yearJoinedLeague": 2022,
+    "playerType": "Position Player",
+    "position": "Left Fielder",
+    "hits": 140,
+    "walks": 50,
+    "strikeouts": 100,
+    "battingAverage": 0.27,
+    "stolenBases": 12,
+    "seasonHighlights": [
+      "Hit for the cycle against the Tigers",
+      "Led the outfielders in assists"
+    ],
+    "teamContributions": [
+      "Strong arm in the outfield",
+      "Clutch hitter in key situations"
+    ]
+  },
+  {
+    "name": "Jimmy Key",
+    "yearJoinedLeague": 2019,
+    "playerType": "Pitcher",
+    "position": "Starting Pitcher",
+    "gamesStarted": 24,
+    "wins": 13,
+    "losses": 6,
+    "saves": 1,
+    "ERA": 3.5,
+    "walks": 40,
+    "strikeouts": 150,
+    "seasonHighlights": [
+      "Pitched 8 innings of shutout ball against the Astros",
+      "Reached 150 strikeouts for the season"
+    ],
+    "teamContributions": [
+      "Consistent performer in the rotation",
+      "Provided leadership to younger pitchers"
+    ]
+  },
+  {
+    "name": "Tony Fernandez",
+    "yearJoinedLeague": 2023,
+    "playerType": "Position Player",
+    "position": "Shortstop",
+    "hits": 120,
+    "walks": 45,
+    "strikeouts": 80,
+    "battingAverage": 0.26,
+    "stolenBases": 18,
+    "seasonHighlights": [
+      "Hit a walk-off single against the Mariners",
+      "Had a 98% fielding percentage"
+    ],
+    "teamContributions": [
+      "Solid defense at shortstop",
+      "Consistent contact hitter"
+    ]
+  },
+  {
+    "name": "Tom Henke",
+    "yearJoinedLeague": 2020,
+    "playerType": "Pitcher",
+    "position": "Relief Pitcher",
+    "gamesStarted": 0,
+    "wins": 4,
+    "losses": 3,
+    "saves": 25,
+    "ERA": 2.8,
+    "walks": 25,
+    "strikeouts": 85,
+    "seasonHighlights": [
+      "Saved 25 games",
+      "Had a streak of 15 consecutive scoreless innings"
+    ],
+    "teamContributions": [
+      "Anchor of the bullpen",
+      "Reliable closer in tight games"
+    ]
+  }
+]
